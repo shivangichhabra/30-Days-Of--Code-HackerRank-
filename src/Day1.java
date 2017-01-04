@@ -43,19 +43,14 @@ public class Day1 {
 
         Scanner scan = new Scanner(System.in);
 
-        int a;
-        double b;
-        String c = "";
+        int a = scan.nextInt();
+        double b = scan.nextDouble();
+        scan.nextLine();
+        String c = scan.nextLine();
 
-        a = scan.nextInt();
-        b = scan.nextDouble();
-        while(scan.hasNext())
-        {
-            c = scan.nextLine();
-        }
         System.out.println(i+a);
         System.out.println(d+b);
         System.out.println(s+c);
-        scan.close();
+
     }
 }
