@@ -27,6 +27,7 @@ Welcome to 30 Days of Code!
  */
 
 public class Day0 {
+
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String inputString = scan.nextLine();

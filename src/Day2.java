@@ -29,6 +29,7 @@ Sample Output
 The total meal cost is 15 dollars.
  */
 public class Day2 {
+
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         double mealCost = scan.nextDouble();
