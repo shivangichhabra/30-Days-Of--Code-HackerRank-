@@ -1,4 +1,3 @@
-import java.util.Scanner;
 /*
 Objective
 Today, we're learning and practicing an algorithmic concept called Recursion. Check out the Tutorial tab for learning materials and an instructional video!
@@ -26,6 +25,9 @@ Sample Input
 Sample Output
 6
  */
+
+import java.util.Scanner;
+
 public class Day9 {
 
     public static int factorial(int n) {

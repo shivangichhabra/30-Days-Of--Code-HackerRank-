@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /*
 Objective
 In this challenge, we're getting started with conditional statements. Check out the Tutorial tab for learning materials and an instructional video!
@@ -34,8 +32,10 @@ Sample Input 1
 
 Sample Output 1
 Not Weird
-
  */
+
+import java.util.Scanner;
+
 public class Day3 {
 
     public static void main(String[] args) {

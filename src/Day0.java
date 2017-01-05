@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /*
 Objective
 In this challenge, we review some basic concepts that will get you started with this series. You will need to use the same (or similar) syntax to read input and write output in challenges throughout HackerRank. Check out the Tutorial tab for learning materials and an instructional video!
@@ -25,6 +23,8 @@ Sample Output
 Hello, World.
 Welcome to 30 Days of Code!
  */
+
+import java.util.Scanner;
 
 public class Day0 {
 

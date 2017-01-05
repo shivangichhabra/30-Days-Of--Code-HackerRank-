@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /*
 Objective
 In this challenge, we're going to use loops to help us do some simple math. Check out the Tutorial tab to learn more.
@@ -32,8 +30,10 @@ Sample Output
 2 x 8 = 16
 2 x 9 = 18
 2 x 10 = 20
-
  */
+
+import java.util.Scanner;
+
 public class Day5 {
 
     public static void printResult(int n)

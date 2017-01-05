@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /*
 Objective
 Today, we're working with binary numbers. Check out the Tutorial tab for learning materials and an instructional video!
@@ -29,6 +27,9 @@ Sample Input 2
 Sample Output 2
 2
  */
+
+import java.util.Scanner;
+
 public class Day10 {
 
     public static String convert(int num)

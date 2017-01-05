@@ -1,5 +1,3 @@
-
-import java.util.Scanner;
 /*
 Objective
 In this challenge, you'll work with arithmetic operators. Check out the Tutorial tab for learning materials and an instructional video!
@@ -28,6 +26,9 @@ Sample Input
 Sample Output
 The total meal cost is 15 dollars.
  */
+
+import java.util.Scanner;
+
 public class Day2 {
 
     public static void main(String[] args) {

@@ -1,6 +1,3 @@
-
-import java.util.Scanner;
-
 /*
 Objective
 Today, we're discussing data types. Check out the Tutorial tab for learning materials and an instructional video!
@@ -34,6 +31,8 @@ Sample Output
 8.0
 HackerRank is the best place to learn and practice coding!
  */
+
+import java.util.Scanner;
 
 public class Day1 {
 

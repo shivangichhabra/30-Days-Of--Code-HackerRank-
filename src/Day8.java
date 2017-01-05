@@ -1,8 +1,3 @@
-//Complete this code or write your own from scratch
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Scanner;
-
 /*
 Objective
 Today, we're learning about Key-Value pair mappings using a Map or Dictionary data structure. Check out the Tutorial tab for learning materials and an instructional video!
@@ -41,6 +36,11 @@ sam=99912222
 Not found
 harry=12299933
  */
+
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
+
 class Day8{
     public static void main(String []argh){
         Scanner in = new Scanner(System.in);

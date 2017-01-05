@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /*
 Objective
 Today we're expanding our knowledge of Strings and combining it with what we've already learned about loops. Check out the Tutorial tab for learning materials and an instructional video!
@@ -29,6 +27,9 @@ Sample Output
 Hce akr
 Rn ak
  */
+
+import java.util.Scanner;
+
 public class Day6 {
     public static void printOutput(String s)
     {

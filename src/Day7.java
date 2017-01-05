@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /*
 Objective
 Today, we're learning about the Array data structure. Check out the Tutorial tab for learning materials and an instructional video!
@@ -26,6 +24,9 @@ Sample Input
 Sample Output
 2 3 4 1
  */
+
+import java.util.Scanner;
+
 public class Day7 {
 
     public static void reverse(int[] arr, int n)
